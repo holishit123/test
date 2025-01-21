@@ -1,8 +1,8 @@
 //img
 (function () {
-  const baseUrl = `../img/2/Wedding in the flower season - Oneshot/`;
+  const baseUrl = `../img/3/Wild-shiki Nihonjin Tsuma no Netorikata Sono/3/`;
   const imgList = [];
-  for (let i = 1; i <= 26; i++) {
+  for (let i = 1; i <= 63; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
   }
 

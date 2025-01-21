@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Shiho Nizhizumi - Passion on the Beach Bonus",
-    theme: `img/2/Wedding in the flower season - Oneshot/1.jpg`,
+    name: "Wild-shiki Nihonjin Tsuma no Netorikata Sono - 3",
+    theme: `img/3/Wild-shiki Nihonjin Tsuma no Netorikata Sono/3/4.jpg`,
   };
 
   const container = document.createElement("div");

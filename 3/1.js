@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Shiho Nizhizumi - Passion on the Beach Bonus",
-    theme: `img/1/Shiho Nizhizumi - Passion on the Beach/1/1.jpg`,
+    name: "Wild-shiki Nihonjin Tsuma no Netorikata Sono - 1",
+    theme: `img/3/Wild-shiki Nihonjin Tsuma no Netorikata Sono/1/4.jpg`,
   };
 
   const container = document.createElement("div");
@@ -28,7 +28,6 @@
   document.getElementById("list-comic").appendChild(container);
 
   container.addEventListener("click", function () {
-    console.log("ccc");
-    window.location.href = "2/2.html";
+    window.location.href = "3/1.html";
   });
 })();
