@@ -2,7 +2,7 @@
 (function () {
   const theme1 = {
     name: "TomoKano Kaa-chan~ Daisuki na Ore no Hahaoya wa Aho na Shinyuu no Kanojo~ - 3",
-    theme: `img/5/TomoKano Kaa-chan~ Daisuki na Ore no Hahaoya wa Aho na Shinyuu no Kanojo~/3/1.jpg`,
+    theme: `img/5/TomoKano Kaa-chan~ Daisuki na Ore no Hahaoya wa Aho na Shinyuu no Kanojo/3/1.jpg`,
   };
 
   const container = document.createElement("div");

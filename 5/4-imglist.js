@@ -1,6 +1,6 @@
 //img
 (function () {
-  const baseUrl = `../img/5/TomoKano Kaa-chan~ Daisuki na Ore no Hahaoya wa Aho na Shinyuu no Kanojo~/after/`;
+  const baseUrl = `../img/5/TomoKano Kaa-chan~ Daisuki na Ore no Hahaoya wa Aho na Shinyuu no Kanojo/after/`;
   const imgList = [];
   for (let i = 1; i <= 29; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
