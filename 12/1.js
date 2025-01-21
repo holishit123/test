@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Shiho Nizhizumi - Passion on the Beach Bonus",
-    theme: `img/1/Shiho Nizhizumi - Passion on the Beach/bonus/3.jpg`,
+    name: "Gibo no Hisokana Kojin Mendan Yor Forger",
+    theme: `img/12/Gibo no Hisokana Kojin Mendan Yor Forger/1.jpg`,
   };
 
   const container = document.createElement("div");
@@ -28,7 +28,6 @@
   document.getElementById("list-comic").appendChild(container);
 
   container.addEventListener("click", function () {
-    console.log("ccc");
-    window.location.href = "1/2.html";
+    window.location.href = "12/1.html";
   });
 })();

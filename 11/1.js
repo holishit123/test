@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Shiho Nizhizumi - Passion on the Beach Bonus",
-    theme: `img/1/Shiho Nizhizumi - Passion on the Beach/bonus/3.jpg`,
+    name: "Gekiyasu Fuuzoku de Ooatari Hiita - 1",
+    theme: `img/11/Gekiyasu Fuuzoku de Ooatari Hiita/1/2.jpg`,
   };
 
   const container = document.createElement("div");
@@ -28,7 +28,6 @@
   document.getElementById("list-comic").appendChild(container);
 
   container.addEventListener("click", function () {
-    console.log("ccc");
-    window.location.href = "1/2.html";
+    window.location.href = "11/1.html";
   });
 })();

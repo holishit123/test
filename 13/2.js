@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Shiho Nizhizumi - Passion on the Beach Bonus",
-    theme: `img/1/Shiho Nizhizumi - Passion on the Beach/bonus/3.jpg`,
+    name: "Haha Banare - They cuckold my mother - 2",
+    theme: `img/13/Haha Banare - They cuckold my mother/2/2.jpg`,
   };
 
   const container = document.createElement("div");
@@ -29,6 +29,6 @@
 
   container.addEventListener("click", function () {
     console.log("ccc");
-    window.location.href = "1/2.html";
+    window.location.href = "13/2.html";
   });
 })();
