@@ -1,8 +1,8 @@
 //img
 (function () {
-  const baseUrl = `../img/25/Yumemi Motomi/1/`;
+  const baseUrl = `../img/26/Nureta Ajisai/3/`;
   const imgList = [];
-  for (let i = 1; i <= 7; i++) {
+  for (let i = 1; i <= 74; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
   }
 
