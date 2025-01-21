@@ -25,3 +25,8 @@ container.appendChild(img);
 container.appendChild(title);
 
 document.getElementById("list-comic").appendChild(container);
+
+container.addEventListener("click", function () {
+  console.log("ccc");
+  window.location.href = "1/1.html";
+});
