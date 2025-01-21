@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Shiho Nizhizumi - Passion on the Beach",
-    theme: `img/1/Shiho Nizhizumi - Passion on the Beach/1/1.jpg`,
+    name: "Shiho Nizhizumi - Passion on the Beach Bonus",
+    theme: `img/2/Wedding in the flower season - Oneshot/1.jpg`,
   };
 
   const container = document.createElement("div");
@@ -28,7 +28,6 @@
   document.getElementById("list-comic").appendChild(container);
 
   container.addEventListener("click", function () {
-    console.log("ccc");
-    window.location.href = "1/1.html";
+    window.location.href = "3/3.html";
   });
 })();
