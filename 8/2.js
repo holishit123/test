@@ -2,7 +2,7 @@
 (function () {
   const theme1 = {
     name: "Natsuzuma ~Natsu, Ryokan, Nanpa Otoko-tachi ni Ochita Tsuma~ - 2",
-    theme: `img/8/Natsuzuma ~Natsu, Ryokan, Nanpa Otoko-tachi ni Ochita Tsuma~/2/5.jpg`,
+    theme: `img/8/Natsuzuma ~Natsu, Ryokan, Nanpa Otoko-tachi ni Ochita Tsuma~/1/5.jpg`,
   };
 
   const container = document.createElement("div");
