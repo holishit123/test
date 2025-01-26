@@ -27,9 +27,8 @@
   //5
   for (let i = 1; i <= 48; i++) {
     const formattedNumber = String(i).padStart(3, "0"); // Định dạng số với 3 chữ số, thêm '0' vào trước nếu cần
-    imgList.push(`${baseUrl}4/${formattedNumber}.jpg`);
+    imgList.push(`${baseUrl}5/${formattedNumber}.jpg`);
   }
-  
 
   const imgContainer = document.getElementById("list-img");
 

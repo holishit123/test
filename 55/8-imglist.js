@@ -3,7 +3,7 @@
   const baseUrl = `../img/55/Lust Flight [Awe-some-ryan]/Shirley - end/`;
   const imgList = [];
   for (let i = 1; i <= 28; i++) {
-    const formattedNumber = String(i).padStart(3, "0"); // Định dạng số với 3 chữ số, thêm '0' vào trước nếu cần
+    const formattedNumber = String(i).padStart(2, "0"); // Định dạng số với 3 chữ số, thêm '0' vào trước nếu cần
     imgList.push(`${baseUrl}${formattedNumber}.jpg`);
   }
 
