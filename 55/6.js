@@ -1,7 +1,7 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Lust Flight [Awe-some-ryan] - 6",
+    name: "Lust Flight [Awe-some-ryan] - 6 + 7",
     theme: `img/55/Lust Flight [Awe-some-ryan]/6/001.jpg`,
   };
 
