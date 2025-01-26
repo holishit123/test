@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "ikuu被催眠洗脑 堕落为母狗性奴的冷艳千金与总裁母亲 - end - 9",
-    theme: `img/52/ikuu被催眠洗脑 堕落为母狗性奴的冷艳千金与总裁母亲 - end/9/09_001.jpg`,
+    name: "Lust Flight [Awe-some-ryan] -- ss2 1 -> 5",
+    theme: `img/55/Lust Flight [Awe-some-ryan]/ss2/1/1.jpg`,
   };
 
   const container = document.createElement("div");
@@ -28,6 +28,6 @@
   document.getElementById("list-comic").appendChild(container);
 
   container.addEventListener("click", function () {
-    window.location.href = "52/9.html";
+    window.location.href = "55/9.html";
   });
 })();

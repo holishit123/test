@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "ikuu被催眠洗脑 堕落为母狗性奴的冷艳千金与总裁母亲 - end - 7",
-    theme: `img/52/ikuu被催眠洗脑 堕落为母狗性奴的冷艳千金与总裁母亲 - end/7/07_001.jpg`,
+    name: "Olivia's - end",
+    theme: `img/55/Lust Flight [Awe-some-ryan]/Olivia's - end/01.jpg`,
   };
 
   const container = document.createElement("div");
@@ -28,6 +28,6 @@
   document.getElementById("list-comic").appendChild(container);
 
   container.addEventListener("click", function () {
-    window.location.href = "52/7.html";
+    window.location.href = "55/7.html";
   });
 })();

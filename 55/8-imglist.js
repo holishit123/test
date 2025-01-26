@@ -1,10 +1,10 @@
 //img
 (function () {
-  const baseUrl = `../img/52/ikuu被催眠洗脑 堕落为母狗性奴的冷艳千金与总裁母亲 - end/8/`;
+  const baseUrl = `../img/55/Lust Flight [Awe-some-ryan]/Shirley - end/`;
   const imgList = [];
-  for (let i = 1; i <= 102; i++) {
+  for (let i = 1; i <= 28; i++) {
     const formattedNumber = String(i).padStart(3, "0"); // Định dạng số với 3 chữ số, thêm '0' vào trước nếu cần
-    imgList.push(`${baseUrl}08_${formattedNumber}.jpg`);
+    imgList.push(`${baseUrl}${formattedNumber}.jpg`);
   }
 
   const imgContainer = document.getElementById("list-img");
