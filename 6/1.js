@@ -1,7 +1,7 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Tsuma ni Damatte Sokubaikai ni Ikun ja Nakatta - 1",
+    name: "Tsuma ni Damatte Sokubaikai ni Ikun ja Nakatta - 1,2,3",
     theme: `img/6/Tsuma ni Damatte Sokubaikai ni Ikun ja Nakatta/1/3.jpg`,
   };
 

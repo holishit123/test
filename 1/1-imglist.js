@@ -18,6 +18,26 @@
     `${baseUrl}14.jpg`,
   ];
 
+  const baseUrl1 = `../img/1/Shiho Nizhizumi - Passion on the Beach/bonus/`;
+  const newimgList = [
+    `${baseUrl1}1.jpg`,
+    `${baseUrl1}2.jpg`,
+    `${baseUrl1}3.jpg`,
+    `${baseUrl1}4.jpg`,
+    `${baseUrl1}5.jpg`,
+    `${baseUrl1}6.jpg`,
+    `${baseUrl1}7.jpg`,
+    `${baseUrl1}8.jpg`,
+    `${baseUrl1}9.jpg`,
+    `${baseUrl1}10.jpg`,
+    `${baseUrl1}11.jpg`,
+    `${baseUrl1}12.jpg`,
+    `${baseUrl1}13.jpg`,
+    `${baseUrl1}14.jpg`,
+  ];
+
+  newimgList.map((x) => imgList.push(x));
+
   const imgContainer = document.getElementById("list-img");
 
   imgList.forEach((imageUrl) => {
